@@ -1,1 +1,1 @@
-[System.Windows.MessageBox]::Show('Hello')
+Write-Warning "you got hacked2"
