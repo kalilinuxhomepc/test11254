@@ -1,2 +1,1 @@
-rr3
-test2
+[System.Windows.MessageBox]::Show('Hello')
